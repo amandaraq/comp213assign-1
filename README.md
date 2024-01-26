@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amanda Amaya Rodriguez - Home Page</title>
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; color:deeppink; background-color:aqua">
+    <img src="sunnies.jpg" alt="banner-image" width="65%" height="50%">
+
+
+
+    <h1>COMP213 - Web Interface Design - Winter 2024</h1>
+    <h3>Student Name: Amanda Amaya Rodriguez - Student Number: 301457598</h3>
+    <p>I am currently a student at Centennial College in the Health Informatics Technology program. I previously studied at University of Toronto and earned a Pyschology degree. I am now changing fields and am very excited to enter into the technology field, slightly nervous at the same time haha!</p>
+    <p>One of my favourite quotes is:</p>
+    <blockquote>
+        <i>The day you were born is the day God decided that the world could not exist without you.</i>
+        <br> -Rabbi Nachman of Breslov
+    </blockquote>
+    <p>Here are a couple of things I love to do in my leisure time:</p>
+            <ul>
+                <li>Read</li>
+                <li>Swim</li>
+                <li>Paint-by-Number</li>
+                <li>Online shopping</li>
+                <li>Go on walks</li>
+                <li>Try new restuarants</li>
+                </ul>
+<footer><small>&copy;&nbsp;Amanda Amaya Rodriguez - 301457598 - COMP213 - Winter 2024</small></footer>
+
+ <!--Amanda Amaya Rodriguez 301457598  -->
+</body>
+</html>
